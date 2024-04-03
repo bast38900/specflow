@@ -1,0 +1,11 @@
+/Users/pentiam1pro/projects/UCL/Software_kvalitet/specflow/specflowlib/bin/Debug/net6.0/specflowlib.deps.json
+/Users/pentiam1pro/projects/UCL/Software_kvalitet/specflow/specflowlib/bin/Debug/net6.0/specflowlib.dll
+/Users/pentiam1pro/projects/UCL/Software_kvalitet/specflow/specflowlib/bin/Debug/net6.0/specflowlib.pdb
+/Users/pentiam1pro/projects/UCL/Software_kvalitet/specflow/specflowlib/obj/Debug/net6.0/specflowlib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pentiam1pro/projects/UCL/Software_kvalitet/specflow/specflowlib/obj/Debug/net6.0/specflowlib.AssemblyInfoInputs.cache
+/Users/pentiam1pro/projects/UCL/Software_kvalitet/specflow/specflowlib/obj/Debug/net6.0/specflowlib.AssemblyInfo.cs
+/Users/pentiam1pro/projects/UCL/Software_kvalitet/specflow/specflowlib/obj/Debug/net6.0/specflowlib.csproj.CoreCompileInputs.cache
+/Users/pentiam1pro/projects/UCL/Software_kvalitet/specflow/specflowlib/obj/Debug/net6.0/specflowlib.dll
+/Users/pentiam1pro/projects/UCL/Software_kvalitet/specflow/specflowlib/obj/Debug/net6.0/refint/specflowlib.dll
+/Users/pentiam1pro/projects/UCL/Software_kvalitet/specflow/specflowlib/obj/Debug/net6.0/specflowlib.pdb
+/Users/pentiam1pro/projects/UCL/Software_kvalitet/specflow/specflowlib/obj/Debug/net6.0/ref/specflowlib.dll

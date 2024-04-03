@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qrGpZjIZ7rNAeLU6pWZsH/ufyIdaydclPJilablnsKOCEJcVJ/eEEUAxdyFHnxtdTlC0iaE/oaPWVjNb6JvbVQ==",
+  "success": true,
+  "projectFilePath": "/Users/pentiam1pro/projects/UCL/Software_kvalitet/specflow/specflowlib/specflowlib.csproj",
+  "expectedPackageFiles": [
+    "/Users/pentiam1pro/.nuget/packages/microsoft.netcore.app.ref/6.0.28/microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "/Users/pentiam1pro/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.28/microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
